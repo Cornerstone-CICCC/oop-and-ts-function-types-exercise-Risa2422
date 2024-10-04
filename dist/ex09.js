@@ -5,5 +5,6 @@ function subtract(x, y) {
     return x - y;
 }
 const mySubtract = function (x, y) {
+    return x - y;
 };
 console.log(mySubtract(10, 5)); // Expected output: 5
